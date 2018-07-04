@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_camera) {
-            Uri uri = Uri.parse("https://github.com");
+            Uri uri = Uri.parse("https://github.com/kongjianma/ZonePicture");
             Intent intent = new Intent(Intent.ACTION_VIEW, uri);
             startActivity(intent);
         } else if (id == R.id.nav_manage) {
