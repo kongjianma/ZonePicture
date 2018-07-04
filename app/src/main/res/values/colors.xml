@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tianlan">#FF4AADD7</color>
+    <color name="pianhong">#FFD36540</color>
+    <color name="pianhuang">#FFE9C845</color>
+    <color name="zise">#FFB25A68</color>
+    <color name="pianhui">#FFCD9967</color>
+    <color name="shenhui">#FFAF7A36</color>
+    <color name="qianhuang">#FFEFE079</color>
+    <color name="shenlv">#FF32B16C</color>
+    <color name="qianzi">#FFEDA5B0</color>
+</resources>

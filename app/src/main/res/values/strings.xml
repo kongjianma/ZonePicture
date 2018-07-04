@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">小图片</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">更换主题颜色</string>
+
+    <string name="click_content">点击输入内容</string>
+    <string name="click_author">作者(可选)</string>
+
+</resources>
